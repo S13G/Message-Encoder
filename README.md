@@ -15,4 +15,4 @@ encoded number will always fall between N1 and N2, and will always
 therefore always represent some ASCII character.
 (4) Display the characters that correspond to the encoded ASCII values.
 The procedure is reversed when decoding a line of text. Be certain,
-however, that the same random number is used in decoding as was used in encoding
+however, that the same random number is used in decoding as was used in encoding.
